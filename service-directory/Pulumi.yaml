@@ -1,0 +1,3 @@
+name: service-directory
+runtime: go
+description: centralized way to deploy front and back apps
